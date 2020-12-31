@@ -1,8 +1,8 @@
 ## Welcome to our gps track repository
 
-[Rosengarten Schlern Skymarathon](./files/Rosengarten.gpx)
+[Rosengarten Schlern Skymarathon](./tracks/Rosengarten.gpx)
 
-[Analyzer](https://trex365-stage.azurewebsites.net?url=./files/Rosengarten.gpx)
+[Analyzer](https://trex365-stage.azurewebsites.net/terrain?url=./tracks/Rosengarten.gpx)
 
 
 You can use the [editor on GitHub](https://github.com/trail365/trackrepository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
